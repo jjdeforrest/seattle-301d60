@@ -13,6 +13,6 @@
   "dependencies": {
     "ejs": "^3.0.1",
     "express": "^4.17.1",
-    "superagent": "^5.1.2"
+    "superagent": "^5.3.1"
   }
 }
